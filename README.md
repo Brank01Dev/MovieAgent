@@ -1,5 +1,6 @@
 **** RAG AGENT ****
 ———————————-
+
 -Movie search agent using LangChain AI model agent
 -Writen in Python
 - AI-powered responses using GPT-3.5
@@ -9,11 +10,11 @@
 
 
 
-      Requierments
+Requierments
 ———————————-
 -Python Version 3.x+
 
-	needed packages:
+needed packages:
 
   - langchain
   - langchain-community
@@ -22,7 +23,7 @@
   - (Tkinter integrates with Python)
 
 
-            SETUP
+ SETUP
 ———————————-
 1. Clone this respiratory
 
@@ -41,6 +42,6 @@
 6. Start chating with your AI agent! - example (“Tell me about FightClub movie”)
 
 
-         API KEYS
+API KEYS
 ———————————-
 -Please place your API keys to ensure program functionality.
